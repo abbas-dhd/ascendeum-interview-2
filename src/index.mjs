@@ -3,7 +3,7 @@ import "./styles.css";
 document.getElementById("app").innerHTML = `
 <h1>Hello JavaScript!</h1>
 `;
-
+// PS: I was not told to make christmas tree in a single loop.
 function getBox(height, width, spacing) {
   let result = "";
   // rows
